@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\michi\\OneDrive\\Dokumente\\Coolgame\\coolgame\\My project (1)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\michi\\OneDrive\\Dokumente\\Coolgame\\coolgame\\My project (1)\\Assets\\Scenes\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\michi\\OneDrive\\Dokumente\\Coolgame\\coolgame\\My project (1)\\Assets\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\michi\\OneDrive\\Dokumente\\Coolgame\\coolgame\\My project (1)\\Assets\\Scenes\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\michi\\OneDrive\\Dokumente\\Coolgame\\coolgame\\My project (1)\\Assets\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\michi\\OneDrive\\Dokumente\\Coolgame\\coolgame\\My project (1)\\Assets\\CarInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CarInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\michi\\OneDrive\\Dokumente\\Coolgame\\coolgame\\My project (1)\\Assets\\CarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\michi\\OneDrive\\Dokumente\\Coolgame\\coolgame\\My project (1)\\Assets\\CarController.cs",
+              "RelativeDocumentMoniker": "Assets\\CarController.cs",
+              "ToolTip": "C:\\Users\\michi\\OneDrive\\Dokumente\\Coolgame\\coolgame\\My project (1)\\Assets\\CarController.cs",
+              "RelativeToolTip": "Assets\\CarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T20:50:01.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\michi\\OneDrive\\Dokumente\\Coolgame\\coolgame\\My project (1)\\Assets\\CarInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\CarInteraction.cs",
+              "ToolTip": "C:\\Users\\michi\\OneDrive\\Dokumente\\Coolgame\\coolgame\\My project (1)\\Assets\\CarInteraction.cs",
+              "RelativeToolTip": "Assets\\CarInteraction.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T20:42:49.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\michi\\OneDrive\\Dokumente\\Coolgame\\coolgame\\My project (1)\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\michi\\OneDrive\\Dokumente\\Coolgame\\coolgame\\My project (1)\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T20:40:18.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "mouselook.cs",
               "DocumentMoniker": "C:\\Users\\michi\\OneDrive\\Dokumente\\Coolgame\\coolgame\\My project (1)\\Assets\\mouselook.cs",
               "RelativeDocumentMoniker": "Assets\\mouselook.cs",
@@ -35,16 +86,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\michi\\OneDrive\\Dokumente\\Coolgame\\coolgame\\My project (1)\\Assets\\Scenes\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\michi\\OneDrive\\Dokumente\\Coolgame\\coolgame\\My project (1)\\Assets\\Scenes\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scenes\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T20:11:36.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T20:11:36.97Z"
             }
           ]
         }
